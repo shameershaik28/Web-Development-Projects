@@ -1,0 +1,5 @@
+Fashion Blog is the title of this project.
+
+Isa is a budding fashion blogger, I have built a new website for her, just in time for New York Fashion Week!
+
+Using my new HTML knowledge, created the underlying structure of the blog.  included plenty of pictures, links, lists, and other HTML elements that I’ve learned so far.
