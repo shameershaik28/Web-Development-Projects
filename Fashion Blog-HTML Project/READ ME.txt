@@ -1,0 +1,5 @@
+Fashion Blog
+
+Isa is a budding fashion blogger, she build a new website, just in time for New York Fashion Week!
+
+Using the new HTML knowledge, created the underlying structure of the blog.  included plenty of pictures, links, lists, and other HTML elements that I’ve learned so far.
