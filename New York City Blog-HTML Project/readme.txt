@@ -1,0 +1,1 @@
+After researching New York City, I have successfully created a webpage using only semantic elements for viewers who want to know more about the city.
