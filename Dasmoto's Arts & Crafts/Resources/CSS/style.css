@@ -1,0 +1,39 @@
+.header h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image:url(../Images/pattern.jpeg)
+
+}
+.green{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+.cost{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+}
+.coral{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral
+}
+.blue{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+p{
+    font-size: 20px;;
+}
