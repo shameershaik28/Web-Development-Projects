@@ -1,0 +1,40 @@
+
+$ pwd
+/home/ccuser/workspace/daily-buzz
+$ ls
+culture  health  national  technology
+$ cd national/politics
+$ ls
+policy
+$ mkdir elections
+$ cd elections
+$ touch candidates.txt
+$ touch issues.txt
+$ cd ../..
+$ pwd
+/home/ccuser/workspace/daily-buzz/national
+$ cd ..
+$ pwd
+/home/ccuser/workspace/daily-buzz
+$ mkdir business
+$ cd business
+$ ls
+$ mkdir startups
+$ cd startups
+$ cd ..
+$ pwd
+/home/ccuser/workspace/daily-buzz/business
+$ ls
+startups
+$ mkdir startups/disruptors
+$ touch disruptors/tech.txt/design.txt/education.txt
+touch: cannot touch 'disruptors/tech.txt/design.txt/education.txt': No such file or directory
+$ touch startups/disruptors/tech.txt
+$ touch startups/disruptors/design.txt
+$ touch startups/disruptors/education.txt
+$ pwd
+/home/ccuser/workspace/daily-buzz/business
+$ cd ..
+$ pwd
+/home/ccuser/workspace/daily-buzz
+$ 
