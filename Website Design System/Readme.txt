@@ -1,0 +1,1 @@
+In this project I built the Basic website, I have used and Included CSS box model, display and positioning, colors, and typography.
